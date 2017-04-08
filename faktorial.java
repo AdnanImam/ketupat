@@ -8,7 +8,7 @@ public class Ketupat {
             int n = 12/2;
             for(int i=1;i<=n;i++){
             for(int k=n;k>i;k--){
-            System.out.print(" ");
+            System.out.print("0");
             }
             for(int j=1;j<=l;j++){
             System.out.print("+");
